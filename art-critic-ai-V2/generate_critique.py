@@ -36,5 +36,5 @@ def generate_critique(image_path):
     return critique_text  # Returning text for audio generation
 
 if __name__ == "__main__":
-    image_file = "images/day1.png"  # Ensure the file exists in the /images folder
+    image_file = "images/3506.png"  # Ensure the file exists in the /images folder
     generate_critique(image_file)

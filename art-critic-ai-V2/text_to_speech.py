@@ -22,5 +22,5 @@ def text_to_speech(text_file):
 
 # Example usage
 if __name__ == "__main__":
-    text_file = "output/day1.txt"  # Change this for other files
+    text_file = "output/zoe.txt"  # Change this for other files
     text_to_speech(text_file)
